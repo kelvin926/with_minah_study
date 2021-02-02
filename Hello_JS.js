@@ -2,7 +2,7 @@
 <html>
 
   <head>
-    <title>JS 안녕,,, 반가워!</title>
+    <title>JS 안녕! 반가워!</title>
   </head>
 
   <body>
